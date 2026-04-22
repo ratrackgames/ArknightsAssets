@@ -1,0 +1,53 @@
+Listado de rutas de carpetas para el volumen Windows
+El número de serie del volumen es D83A-A9D7
+C:.
+|   estructura.txt
+|   logo_abyssal.png
+|   logo_action4.png
+|   logo_babel.png
+|   logo_blacksteel.png
+|   logo_bolivar.png
+|   logo_chiave.png
+|   logo_columbia.png
+|   logo_dublinn.png
+|   logo_egir.png
+|   logo_elite.png
+|   logo_followers.png
+|   logo_glasgow.png
+|   logo_higashi.png
+|   logo_iberia.png
+|   logo_karlan.png
+|   logo_kazimierz.png
+|   logo_kjerag.png
+|   logo_laterano.png
+|   logo_lee.png
+|   logo_leithanien.png
+|   logo_lgd.png
+|   logo_lungmen.png
+|   logo_minos.png
+|   logo_penguin.png
+|   logo_pinus.png
+|   logo_reserve1.png
+|   logo_reserve4.png
+|   logo_reserve6.png
+|   logo_rhine.png
+|   logo_rhodes.png
+|   logo_rhodes_override.png
+|   logo_rim.png
+|   logo_sami.png
+|   logo_sargon.png
+|   logo_siesta.png
+|   logo_siracusa.png
+|   logo_student.png
+|   logo_sui.png
+|   logo_sweep.png
+|   logo_tara.png
+|   logo_ursus.png
+|   logo_victoria.png
+|   logo_yan.png
+|   
+\---linkage
+        logo_laios.png
+        logo_mujica.png
+        logo_rainbow.png
+        
