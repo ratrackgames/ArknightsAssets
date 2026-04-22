@@ -1,0 +1,76 @@
+Listado de rutas de carpetas para el volumen Windows
+El número de serie del volumen es D83A-A9D7
+C:.
+    estructuraSub.txt
+    sub_agent_icon.png
+    sub_alchemist_icon.png
+    sub_aoesniper_icon.png
+    sub_artsfghter_icon.png
+    sub_artsprotector_icon.png
+    sub_bard_icon.png
+    sub_bearer_icon.png
+    sub_blastcaster_icon.png
+    sub_blessing_icon.png
+    sub_bombarder_icon.png
+    sub_centurion_icon.png
+    sub_chainhealer_icon.png
+    sub_chain_icon.png
+    sub_charger_icon.png
+    sub_closerange_icon.png
+    sub_corecaster_icon.png
+    sub_counsellor_icon.png
+    sub_craftsman_icon.png
+    sub_crusher_icon.png
+    sub_dollkeeper_icon.png
+    sub_duelist_icon.png
+    sub_executor_icon.png
+    sub_fastshot_icon.png
+    sub_fearless_icon.png
+    sub_fighter_icon.png
+    sub_fortress_icon.png
+    sub_funnel_icon.png
+    sub_geek_icon.png
+    sub_guardian_icon.png
+    sub_hammer_icon.png
+    sub_healer_icon.png
+    sub_hookmaster_icon.png
+    sub_hunter_icon.png
+    sub_incantationmedic_icon.png
+    sub_instructor_icon.png
+    sub_librator_icon.png
+    sub_longrange_icon.png
+    sub_loopshooter_icon.png
+    sub_lord_icon.png
+    sub_mercenary_icon.png
+    sub_merchant_icon.png
+    sub_musha_icon.png
+    sub_mystic_icon.png
+    sub_phalanx_icon.png
+    sub_physician_icon.png
+    sub_pioneer_icon.png
+    sub_primcaster_icon.png
+    sub_primguard_icon.png
+    sub_primprotector_icon.png
+    sub_protector_icon.png
+    sub_pusher_icon.png
+    sub_reaperrange_icon.png
+    sub_reaper_icon.png
+    sub_ringhealer_icon.png
+    sub_ritualist_icon.png
+    sub_shotprotector_icon.png
+    sub_siegesniper_icon.png
+    sub_skywalker_icon.png
+    sub_slower_icon.png
+    sub_soulcaster_icon.png
+    sub_splashcaster_icon.png
+    sub_stalker_icon.png
+    sub_summoner_icon.png
+    sub_sword_icon.png
+    sub_tactician_icon.png
+    sub_traper_icon.png
+    sub_underminer_icon.png
+    sub_unyield_icon.png
+    sub_wandermedic_icon.png
+    
+No existe ninguna subcarpeta 
+
